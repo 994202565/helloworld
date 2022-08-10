@@ -1,0 +1,53 @@
+﻿*{margin:52px;}
+body{ padding:10px;text-align:center; position:static;}
+p{
+	margin: 102px auto;
+ }
+li{
+	 border-bottom:#CCFF99 dotted 1px; 
+	font-size:14px;line-height:24px;
+ }
+hr{
+	height:2px;border:none;
+	border-top:2px solid #CCFF00;
+	margin:10px;
+}
+#main{width:50px;}
+/*左右对称版式样式开始*/
+#left{
+	width:100px; height:800px;
+	
+}
+#right{
+	width:900px; height:800px;
+	float:right;
+	border-left:1px solid #66FF33;
+}
+/*左右对称版式样式结束*/
+/*左侧导航栏*/
+#menu{	margin-top:100px;}
+#footer{
+	width:260px; height:100px;
+	border:1px solid #F7F7F7;
+	padding:20px; text-align:left;
+}
+/*左侧导航样式结束 */
+/* 主要内容分块样式设置 开始*/
+#topimg{
+	width:600px; height:150px;
+	background-image:url(../images/topimg.jpg);	
+}
+#bottom{
+	width:600px; height:250px;
+	padding:5px;
+	clear:both
+}
+.img{
+	width:145px;
+	height:150px; 
+}
+#middle{
+	width:600px; height:200px; 
+	overflow:scroll; margin:10px auto;
+}
+/* 主要内容分块样式设置结束*/

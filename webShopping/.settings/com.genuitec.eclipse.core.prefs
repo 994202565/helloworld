@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+validator.Checked=WebRoot/Login_wang.html,src/struts.xml
+validator.Revalidate=true
+validator.Unchecked=
